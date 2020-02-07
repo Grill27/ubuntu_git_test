@@ -1,1 +1,2 @@
 resister add changed 
+pull remote repository
